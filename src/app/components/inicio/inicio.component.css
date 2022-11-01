@@ -1,0 +1,21 @@
+.contenedor{
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+  height: 100vh;
+  background-image: url(../../../assets/img/bgLogin.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.input-ingresar{
+  width:195px;
+  text-align:center;
+  height:3.125rem;
+  font-size:1.25rem;
+}
+
+.text-center{
+color: aliceblue;
+}
